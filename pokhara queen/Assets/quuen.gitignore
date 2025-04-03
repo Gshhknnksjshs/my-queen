@@ -1,0 +1,11 @@
+# Ignore Unity auto-generated files
+Library/
+Logs/
+Temp/
+Obj/
+.vs/
+.vscode/
+Build/
+Builds/
+Packages/
+UserSettings/

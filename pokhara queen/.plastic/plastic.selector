@@ -1,0 +1,4 @@
+repository "pokhara queen@aashishwala@cloud"
+  path "/"
+    br "/main"
+    co "/main"
